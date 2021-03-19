@@ -1,0 +1,5 @@
+rootProject.name = 'multimodule-example'
+
+include 'producer'
+include 'consumer'
+
